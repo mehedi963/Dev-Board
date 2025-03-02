@@ -6,4 +6,11 @@
     font-weight: 400;
     font-style: normal;
   }
+
+  #complete-btn{
+    cursor: pointer ;
+  }
+  /* #complete-btn{
+    cursor: not-allowed;
+  } */
   
